@@ -29,9 +29,11 @@
 
 * [Page 2](tuan-ti-lao-dong-fa/page-2.md)
 
-## 勞動事件處理法
+## 勞動與爭議事件處理
 
-* [Page 4](lao-dong-shi-jian-chu-li-fa/page-4.md)
+* [法源](lao-dong-yu-zheng-yi-shi-jian-chu-li/fa-yuan.md)
+* [勞動事件法](lao-dong-yu-zheng-yi-shi-jian-chu-li/lao-dong-shi-jian-fa.md)
+* [勞資爭議處理法](lao-dong-yu-zheng-yi-shi-jian-chu-li/lao-zi-zheng-yi-chu-li-fa.md)
 
 ## 社會保險法
 
